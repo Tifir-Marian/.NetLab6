@@ -1,0 +1,15 @@
+F:\Facultate\C#\HostWCF\bin\Debug\HostWCF.exe.config
+F:\Facultate\C#\HostWCF\bin\Debug\HostWCF.exe
+F:\Facultate\C#\HostWCF\bin\Debug\HostWCF.pdb
+F:\Facultate\C#\HostWCF\bin\Debug\ObjectWCF.dll
+F:\Facultate\C#\HostWCF\bin\Debug\Lab24.03.dll
+F:\Facultate\C#\HostWCF\bin\Debug\EntityFramework.dll
+F:\Facultate\C#\HostWCF\bin\Debug\ObjectWCF.pdb
+F:\Facultate\C#\HostWCF\bin\Debug\Lab24.03.pdb
+F:\Facultate\C#\HostWCF\bin\Debug\Lab24.03.dll.config
+F:\Facultate\C#\HostWCF\bin\Debug\EntityFramework.xml
+F:\Facultate\C#\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+F:\Facultate\C#\HostWCF\obj\Debug\HostWCF.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+F:\Facultate\C#\HostWCF\obj\Debug\HostWCF.exe
+F:\Facultate\C#\HostWCF\obj\Debug\HostWCF.pdb

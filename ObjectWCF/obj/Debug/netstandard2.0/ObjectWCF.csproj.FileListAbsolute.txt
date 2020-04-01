@@ -1,0 +1,15 @@
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\ObjectWCF.deps.json
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\ObjectWCF.dll
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\Lab24.03.dll
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\Lab24.03.pdb
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\Lab24.03.dll.config
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.csprojAssemblyReference.cache
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.AssemblyInfoInputs.cache
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.AssemblyInfo.cs
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.csproj.CopyComplete
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\ObjectWCF.pdb
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\EntityFramework.dll
+F:\Facultate\C#\ObjectWCF\bin\Debug\netstandard2.0\EntityFramework.xml
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.dll
+F:\Facultate\C#\ObjectWCF\obj\Debug\netstandard2.0\ObjectWCF.pdb

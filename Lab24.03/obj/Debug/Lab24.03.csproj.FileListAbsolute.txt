@@ -1,0 +1,12 @@
+F:\Facultate\C#\Lab24.03\bin\Debug\Lab24.03.dll.config
+F:\Facultate\C#\Lab24.03\bin\Debug\Lab24.03.dll
+F:\Facultate\C#\Lab24.03\bin\Debug\Lab24.03.pdb
+F:\Facultate\C#\Lab24.03\bin\Debug\EntityFramework.dll
+F:\Facultate\C#\Lab24.03\bin\Debug\EntityFramework.SqlServer.dll
+F:\Facultate\C#\Lab24.03\bin\Debug\EntityFramework.xml
+F:\Facultate\C#\Lab24.03\bin\Debug\EntityFramework.SqlServer.xml
+F:\Facultate\C#\Lab24.03\obj\Debug\Lab24.03.csprojAssemblyReference.cache
+F:\Facultate\C#\Lab24.03\obj\Debug\Lab24.03.csproj.CoreCompileInputs.cache
+F:\Facultate\C#\Lab24.03\obj\Debug\Lab24.03.csproj.CopyComplete
+F:\Facultate\C#\Lab24.03\obj\Debug\Lab24.03.dll
+F:\Facultate\C#\Lab24.03\obj\Debug\Lab24.03.pdb
